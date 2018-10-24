@@ -35,7 +35,7 @@ from os import listdir
 from os.path import isfile, join
 
 # This global variable will be the directory where your sample code is. Change this as needs be.
-SAMPLE_CODE = "/home/cynblkfox/Documents/assignCS345/taSpring2018/labLinuxInfoSample"
+SAMPLE_CODE = "./labLinuxInfoSample"
 
 ##################################################################
 # Colors to improve the look of the output on the terminal
